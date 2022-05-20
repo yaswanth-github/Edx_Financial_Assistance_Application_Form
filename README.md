@@ -24,3 +24,10 @@ Last Step is
 <p> Click ✅ I allow edX to use the information provided in this application (except for financial information) for edX marketing purposes. (optional)<p>
 And
 Submit Application
+  
+ <span style="color: red"> If any Errors Like 👉 Must have at least 1250 characters. Give Spaces to increase characters </span>
+  
+<div style="background-color:rgba(226, 218, 218, 0.301)" class="promoHead" align="center">
+        <marquee width="100%" direction="right" scrollamount="2" bgcolor="#ccffee">
+           <tt>Copyright © 2022. All right reserved</tt>  
+</div>
